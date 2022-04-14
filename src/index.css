@@ -1,0 +1,15 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+	margin:0;
+	padding:20px 40px;
+}
+
+/* make all anchor tags have the properties below, no underline and purple font */
+a {
+	text-decoration: none;
+	color: black;
+}
+
+*{
+    box-sizing: border-box;
+}

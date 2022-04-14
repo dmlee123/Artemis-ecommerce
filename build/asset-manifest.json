@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/new-artemis-ecommerce/static/css/main.de60bced.css",
+    "main.js": "/new-artemis-ecommerce/static/js/main.510e645d.js",
+    "static/js/377.1283bdc6.chunk.js": "/new-artemis-ecommerce/static/js/377.1283bdc6.chunk.js",
+    "service-worker.js": "/new-artemis-ecommerce/service-worker.js",
+    "static/media/shopping-bag.svg": "/new-artemis-ecommerce/static/media/shopping-bag.a688874f6f1507316bdfa420328a4a53.svg",
+    "index.html": "/new-artemis-ecommerce/index.html",
+    "main.de60bced.css.map": "/new-artemis-ecommerce/static/css/main.de60bced.css.map",
+    "main.510e645d.js.map": "/new-artemis-ecommerce/static/js/main.510e645d.js.map",
+    "377.1283bdc6.chunk.js.map": "/new-artemis-ecommerce/static/js/377.1283bdc6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de60bced.css",
+    "static/js/main.510e645d.js"
+  ]
+}
