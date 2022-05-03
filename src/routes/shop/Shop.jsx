@@ -10,22 +10,22 @@ import SHOP_DATA from "../../data";
 function Shop() {
   
     const dispatch = useDispatch();
-    // getting the data from firebase
- useEffect(() => {
-        const getCategoriesMap = async () => {
-             const categoriesArray = await getCategoriesAndDocuments('categories')
-             dispatch(setCategories(categoriesArray))
+    // getting the data from firebase - only need to run this once ( I THINK DOUBLE CHECK)
+//  useEffect(() => {
+//         const getCategoriesMap = async () => {
+//              const categoriesArray = await getCategoriesAndDocuments('categories')
+//              dispatch(setCategories(categoriesArray))
      
-        }
-        getCategoriesMap();
-    },[])
+//         }
+//         getCategoriesMap();
+//     },[])
 
 
 //getting the data ONTO firebase from SHOP_DATA
 // just run this once then hide it to get onto database
-useEffect(() => {
-  addCollectionAndDocuments('categories', SHOP_DATA)
-}, [])
+// useEffect(() => {
+//   addCollectionAndDocuments('categories', SHOP_DATA)
+// }, [])
 
   return (
   
