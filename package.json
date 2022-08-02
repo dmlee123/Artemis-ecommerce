@@ -1,6 +1,6 @@
 {
-  "homepage": "http://dmlee123.github.io/new-artemis-ecommerce",
-  "name": "new-artemis-ecommerce",
+  "homepage": "http://dmlee123.github.io/artemis-ecommerce",
+  "name": "artemis-ecommerce",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
